@@ -22,5 +22,5 @@
 
 **Definition of Ready:
 
-**Team relating size estimating activity:
+**Team relative size estimating activity:
 
