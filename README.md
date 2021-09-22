@@ -76,7 +76,10 @@ How this application helps: This application helps an insurance company in acces
 
 ### Product Backlog URL: https://www.pivotaltracker.com/n/projects/2532897
 
-### Rationale for Product Backlog order:
+### Rationale for Product Backlog order: 
+The stories are ordered in pivotal tracker based on the flow activity of the project. 
+We start with creating the required databases and basic html pages - like login and signup pages. 
+We then work more functionality aspect of the product.
 
 ### Definition of Ready:
   A doctor needs to access the patient medical records to provide better treatment.
