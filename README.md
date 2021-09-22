@@ -27,6 +27,7 @@
 ### Rationale for Product Backlog order:
 
 ### Definition of Ready:
+   As a doctor i would like to view the patient medical records to diagnose and provide treatment for the patient. As patient i would like to view my patient record. As backoffice assistant i would like to view the medical records of patient to provide the information to insurance provider. As a insurance office assistant i would like to view the patient medical records to evaluate the claim of the patient.
 
 ### Team relative size estimating activity:
 
