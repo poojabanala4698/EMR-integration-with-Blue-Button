@@ -79,7 +79,9 @@ How this application helps: This application helps an insurance company in acces
 ### Rationale for Product Backlog order:
 
 ### Definition of Ready:
-   As a doctor i would like to view the patient medical records to diagnose and provide treatment for the patient. As patient i would like to view my patient record. As backoffice assistant i would like to view the medical records of patient to provide the information to insurance provider. As a insurance office assistant i would like to view the patient medical records to evaluate the claim of the patient.
-
+  A doctor needs to access the patient medical records to provide better treatment.
+  Patients should be able to view and download their patient records.
+  A back-office assistant would like to view the patient's medical records to provide the information to the insurance provider.
+  An insurance office assistant would like to view the patient medical records to evaluate the patient's claim.
 ### Team relative size estimating activity:
 
