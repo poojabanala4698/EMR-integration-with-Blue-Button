@@ -12,7 +12,7 @@
    The goal of this application is to maintain patient medical records. We leverage Blue Botton API to access patient medical history to provide the best care. In addition, we update the patient's treatment to the EMR to keep track of it.
 
 ### Near Vision for the product:
-   Create a login and signup pages for accessing the application.
+   Create login and signup pages for patients, doctors, and insurance companies to access the EMR portal
 
 ### Stakeholders for the product: 
    - Doctors
