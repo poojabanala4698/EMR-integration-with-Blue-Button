@@ -9,7 +9,7 @@
 5. Sai Kiran Pocham - UX/UI Developer
 
 ### Far Vision for the product: <br>
-   Create a seamless EMR system with Blue button integration.
+   The goal of this application is to maintain patient medical records. We leverage Blue Botton API to access patient medical history to provide the best care. In addition, we update the patient's treatment to the EMR to keep track of it.
 
 ### Near Vision for the product:
    Create a login and signup pages for accessing the application.
