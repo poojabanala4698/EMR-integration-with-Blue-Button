@@ -88,5 +88,5 @@ We then work more functionality aspect of the product.
   An insurance office assistant would like to view the patient medical records to evaluate the patient's claim.
 ### Team relative size estimating activity:
 
-The time for the completion of each product backlog is estimated to be 2 weeks per user story.
+The time for the completion for product backlog is estimated to be 2 weeks per user story.
 
